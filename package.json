@@ -1,6 +1,6 @@
 {
-  "name": "mockjs",
-  "title": "Mock.js",
+  "name": "mockjs-tc",
+  "title": "Mock.js TC",
   "description": "生成隨機數據 & 攔截 Ajax 請求",
   "version": "1.0.1-beta3",
   "homepage": "http://mockjs.com/",
