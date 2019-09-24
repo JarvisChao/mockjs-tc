@@ -1,8 +1,8 @@
 {
   "name": "mockjs-tc",
   "title": "Mock.js TC",
-  "description": "生成隨機數據 & 攔截 Ajax 請求",
-  "version": "1.0.2",
+  "description": "生成隨機數據 & 攔截 Ajax 請求（繁體中文）",
+  "version": "1.0.3",
   "homepage": "http://mockjs.com/",
   "keywords": [
     "mock",
@@ -20,7 +20,7 @@
     "gulp-istanbul": "^0.10.3",
     "gulp-jshint": "^2.0.0",
     "gulp-mocha": "^2.2.0",
-    "gulp-mocha-phantomjs": "^0.10.1",
+    "gulp-mocha-phantomjs": "^0.12.2",
     "jshint": "^2.8.0",
     "jshint-stylish": "^2.1.0",
     "webpack": "^1.12.9"
